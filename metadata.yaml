@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8513
     wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30171#Vertellingen-van-vroeger-en-later-tijd
 gutenberg_issued: '2009-10-04'
 gutenberg_type: Text
 identifiers:
