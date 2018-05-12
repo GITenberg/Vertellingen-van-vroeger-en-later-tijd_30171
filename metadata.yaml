@@ -1,0 +1,38 @@
+_repo: Vertellingen-van-vroeger-en-later-tijd_30171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Lennep, Jakob van
+    - Lennep, Jacob van
+    - Van Lennep, J. (Jacob)
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2009-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30171'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch literature'
+- !lcc 'PT'
+tableOfContents: In en over Amsterdam -- Plat Amsterdamsch -- Laurens Reael -- De
+  Nieuwekerk te Amsterdam -- Van Amsterdam naar Parijs -- De Omroeper -- Het Wafelmeisje
+  -- De Aanspreker -- De Hollandsche Werkmeid -- De Kruier van Amsterdam -- De Kweekeling
+  voor de Zeevaart -- De slechte Maaltijd -- Maria van Bourgondië -- De zeden onzer
+  voorvaderen met de onze vergeleken -- De drie jonge Meisjes -- Drie jongens bij
+  't Beleg van Leiden -- Het Casino -- Een Staats-Examen in 1851 -- Aan de beschaafde
+  vrouwen in Nederland.
+title: Vertellingen van vroeger en later tijd
+url: http://www.gutenberg.org/ebooks/30171
